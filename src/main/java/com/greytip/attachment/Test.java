@@ -4,8 +4,8 @@ import java.io.File;
 
 public class Test {
 
-    static final String ACCESS_KEY = "AKIAIGQ5V4ZCGCUNUQGQ";
-    static final String ACCESS_SECRET = "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";
+    static final String ACCESS_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+    static final String ACCESS_SECRET = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
     static final String S3_BUCKET = "gt-dib-attachment";
     static final String ACCESS_ID = "gt_demo_masterdemo21";
     static final String REGION = "ap-south-1";
